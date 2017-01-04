@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rkruiter\n"
+"POT-Creation-Date: 2014-02-21 12:14+0800\n"
+"PO-Revision-Date: 2014-05-08 16:19+0800\n"
+"Last-Translator: rKruiter <admin@rkruiter.com>\n"
+"Language-Team:  <bermar.balibalos@asiatype.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Log-in View
+msgid "Please_Enter_Your_Information"
+msgstr "Please Enter Your Information"
+
+msgid "Remember_Me"
+msgstr "Remember Me"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "I_forgot_my_password"
+msgstr "I forgot my password"
+
+msgid "Signup"
+msgstr "Signup"
+
+msgid "Retrieve_Password"
+msgstr "Retrieve Password"
+
+msgid "Enter_your_email_to_receive_instructions"
+msgstr "Enter your email to receive instructions"
+
+msgid "Send_Me"
+msgstr "Send Me"
+
+msgid "Back_to_login"
+msgstr "Back to login"
+
+msgid "New_User_Registration"
+msgstr "New User Registration"
+
+msgid "Enter_your_email_address"
+msgstr "Enter your email address"
+
+msgid "Please_fill-up_the_following"
+msgstr "Please fill-up the following"
+
+msgid "Your_email_address"
+msgstr "Your email address"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Retype_Password"
+msgstr "Retype Password"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email_Active_Account_Message"
+msgstr ""
+"<p>Thank you for signing up at www.rKruiter.com.</p><p>To activate your "
+"account you should click on the link below:</p>"
+
+msgid "Activation_link"
+msgstr "Activation link"
+
+msgid "Email_Forgot_Password_Message"
+msgstr "<p>Your Password is:</p>"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "Email_Salutation"
+msgstr ""
+"<p>Thanks for using our site!</p><br/><p>Sincerely,<br/>The rKruiter Team</p>"
+
+msgid "rKruiter_Password_Retrieval_Subject"
+msgstr "rKruiter Password Retrieval"
+
+# User Information
+msgid "Firstname"
+msgstr "Firstname"
+
+msgid "Lastname"
+msgstr "Lastname"
+
+# Messages
+msgid "Please_try_again"
+msgstr "Please try again."
+
+msgid "Successfully_logged-in"
+msgstr "Successfully logged-in."
+
+msgid "Your_password_has_been_sent_to_your_eMail"
+msgstr "Your password has been sent to your eMail!"
+
+msgid "Check_your_email_for_activation_link"
+msgstr "Check your email for activation link."
+
+msgid "Please_select"
+msgstr "Please select"
+
+# New position
+msgid "Position"
+msgstr "Position"
+
+msgid "New_Position"
+msgstr "New Position"
+
+msgid "New_Position_Wizard"
+msgstr "New Position Wizard"
+
+msgid "Funnel"
+msgstr "Funnel"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "Opening_Details"
+msgstr "Opening Details"
+
+msgid "All_fields_are_mandatory"
+msgstr "All fields are mandatory..."
+
+msgid "Posted_on"
+msgstr "Posted on"
+
+msgid "Function"
+msgstr "Function"
+
+msgid "Experience"
+msgstr "Experience"
+
+msgid "Job_Type"
+msgstr "Job Type"
+
+msgid "Job_Description"
+msgstr "Job Description"
+
+msgid "Education_and_Training"
+msgstr "Education and Training"
+
+msgid "Skills_and_Experience"
+msgstr "Skills and Experience"
+
+msgid "Responsibilities"
+msgstr "Responsibilities"
+
+msgid "Hiring_Funnel"
+msgstr "Hiring Funnel"
+
+msgid "Describe_your_hiring_process"
+msgstr "Describe your hiring process"
+
+msgid "Pooling"
+msgstr "Pooling"
+
+msgid "Phone_Interview"
+msgstr "Phone Interview"
+
+msgid "Job_Interview_One"
+msgstr "Job Interview One"
+
+msgid "Job_Interview_Two"
+msgstr "Job Interview Two"
+
+msgid "Background_Check"
+msgstr "Background Check"
+
+msgid "Job_Offer"
+msgstr "Job Offer"
+
+msgid "Add_a_step"
+msgstr "Add a step"
+
+msgid "Please_Enter_Step_name"
+msgstr "Please Enter Step name"
+
+msgid "Job_Location"
+msgstr "Job Location"
+
+msgid "Provide_as_many_details_as_possible"
+msgstr "Provide as many details as possible"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Industry"
+msgstr "Industry"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Company_name"
+msgstr "Company name"
+
+msgid "Describe_your_company"
+msgstr "Describe your company"
+
+msgid "Company_Location"
+msgstr "Company Location"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Address_1"
+msgstr "Address "
+
+msgid "Address_2"
+msgstr "Address 2"
+
+msgid "City"
+msgstr "City"
+
+msgid "State"
+msgstr "State"
+
+msgid "ZIP"
+msgstr "ZIP"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Company_Details"
+msgstr "Company Details"
+
+msgid "Phone_1"
+msgstr "Phone 1"
+
+msgid "Phone_2"
+msgstr "Phone 2"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Apply_via"
+msgstr "Apply via..."
+
+msgid "Decide_how_a_candidate_can_apply"
+msgstr "Decide how a candidate can apply"
+
+msgid "Prev"
+msgstr "Prev"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Finish"
+msgstr "Finish"
+
+msgid "Validate"
+msgstr "Validate"
+
+msgid "Validate_this_opening"
+msgstr "Validate this opening"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "This_field_is_required"
+msgstr "This field is required"
+
+msgid "The_Position_has_been_validated_successfully"
+msgstr "The Position has been validated successfully."
+
+msgid "Validate_the_position"
+msgstr "Validate the position"
+
+msgid "Confirm_deletion"
+msgstr "Confirm deletion"
+
+msgid "Success"
+msgstr "Success"
